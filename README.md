@@ -1,4 +1,4 @@
-# WhatsApp Baileys Denix
+# WhatsApp Baileys Leamor Zunn
 
 <p align="center">
   <img src="https://files.catbox.moe/zszi5e.jpg" alt="Thumbnail" />
