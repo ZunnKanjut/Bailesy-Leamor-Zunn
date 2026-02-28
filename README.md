@@ -82,13 +82,13 @@ await sock.sendMessage(target, {
     eventMessage: { 
         isCanceled: false, 
         name: "#DenixXvynix", 
-        description: "yume native", 
+        description: "Denix native", 
         location: { 
             degreesLatitude: 0, 
             degreesLongitude: 0, 
             name: "rowrrrr" 
         }, 
-        joinLink: "https://call.whatsapp.com/video/deni_not_style", 
+        joinLink: "https://call.whatsapp.com/video/denix", 
         startTime: "1763019000", 
         endTime: "1763026200", 
         extraGuestsAllowed: false 
@@ -391,3 +391,4 @@ Because this library offers high stability, full features, and an actively impro
 For complete documentation, installation guides, and implementation examples, please visit the official repository and community forums. We continually update and improve this library to meet the needs of developers and users of modern WhatsApp automation solutions.
 
 **Thank you for choosing WhatsApp Baileys as your WhatsApp automation solution!**
+**®️DenixXvynix**
