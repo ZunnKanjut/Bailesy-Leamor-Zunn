@@ -1,7 +1,7 @@
 {
-    "name": "@badzz88/baileys",
+    "name": "@denzz221/baileys",
     "version": "7.0.0",
-    "description": "WhatsApp API Modification By Badzz88",
+    "description": "WhatsApp API Modification By By DenixXvynix",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/Badzz88/baileys",
+    "homepage": "https://github.com/denzz221/baileys",
     "repository": {
-        "url": "https://github.com/Badzz88/baileys"
+        "url": "https://github.com/denzz221/baileys"
     },
     "license": "MIT",
-    "author": "B4DZZN3",
+    "author": "DenixXvynix",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
